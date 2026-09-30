@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Nirmaladevi Lakshmi
 
-### 🔴 Aspiring Data Analyst | B.Tech Information Technology Student
+###  Aspiring Data Analyst | B.Tech Information Technology Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Analytics+Enthusiast;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Turning+Data+Into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB4A8&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Analytics+Enthusiast;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Turning+Data+Into+Insights" alt="Typing SVG" />
 
 <br>
 
@@ -15,18 +15,18 @@
 <br>
 
 <a href="https://www.linkedin.com/in/nirmala-devi-lakshmi-4400862a5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9F1239?style=for-the-badge&logo=linkedin&logoColor=FFB4A8&labelColor=17202A"/>
 </a>
 
 <a href="mailto:nirmaladevilakshmi87@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Email-Contact-FFB4A8?style=for-the-badge&logo=gmail&logoColor=17202A&labelColor=9F1239"/>
 </a>
 
 </div>
 
 ---
 
-## 🔴 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a B.Tech Information Technology student with a strong interest in **Data Analytics and Data Visualization**.
 
@@ -36,22 +36,22 @@ I'm currently building my practical skills in **Excel, SQL, Python, and Power BI
 
 ---
 
-## 🔴 🛠️ Skills
+## 🌌 🛠️ Skills
 
 ### 📊 Data Analytics & Visualization
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-DC2626?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Basic-DC2626?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-DC2626?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-9F1239?style=for-the-badge&logo=microsoftexcel&logoColor=FFB4A8"/>
+<img src="https://img.shields.io/badge/SQL-FFB4A8?style=for-the-badge&logo=postgresql&logoColor=17202A"/>
+<img src="https://img.shields.io/badge/Python-Basic-9F1239?style=for-the-badge&logo=python&logoColor=FFB4A8"/>
+<img src="https://img.shields.io/badge/Power%20BI-FFB4A8?style=for-the-badge&logo=powerbi&logoColor=17202A"/>
 </p>
 
 ### 🤖 Other Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Dialogflow-DC2626?style=for-the-badge&logo=dialogflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dialogflow-9F1239?style=for-the-badge&logo=dialogflow&logoColor=FFB4A8"/>
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-FFB4A8?style=for-the-badge&logoColor=17202A"/>
 </p>
 
 ### 💡 Core Skills
@@ -61,7 +61,7 @@ I'm currently building my practical skills in **Excel, SQL, Python, and Power BI
 
 ---
 
-## 🔴 🚀 Projects
+##  🚀 Projects
 
 ### 🎬 Netflix Content Analysis Dashboard
 
@@ -83,17 +83,6 @@ I'm currently building my practical skills in **Excel, SQL, Python, and Power BI
 
 ---
 
-### 🛒 Blinkit Grocery Sales Analysis
-
-**🚧 In Progress**
-
-- Performing data cleaning and transformation on grocery sales datasets.
-- Conducting KPI analysis to identify sales trends and customer behavior.
-
-**Technologies:** `Excel` `SQL` `Power BI`
-
----
-
 ### 🤖 Medical Query Chatbot
 
 **🚧 In Progress**
@@ -106,38 +95,38 @@ I'm currently building my practical skills in **Excel, SQL, Python, and Power BI
 
 ---
 
-## 🔴 📈 GitHub Statistics
+## 🌌 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirmaladevilakshmi&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nirmaladevilakshmi&show_icons=true&hide_border=true&count_private=true&bg_color=17202A&title_color=FFB4A8&text_color=FFFFFF&icon_color=9F1239" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmaladevilakshmi&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=DC2626&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmaladevilakshmi&layout=compact&hide_border=true&bg_color=17202A&title_color=FFB4A8&text_color=FFFFFF" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=nirmaladevilakshmi&hide_border=true&background=0a0a0a&ring=DC2626&fire=EF4444&currStreakLabel=DC2626&sideLabels=FFFFFF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=nirmaladevilakshmi&hide_border=true&background=17202A&ring=FFB4A8&fire=9F1239&currStreakLabel=FFB4A8&sideLabels=FFFFFF&dates=FFFFFF" />
 
 </div>
 
 ---
 
-## 🔴 🎯 Career Goal
+##  🎯 Career Goal
 
 My goal is to build a career in **Data Analytics**, gain practical industry experience, continuously improve my technical skills, and contribute to data-driven business decisions.
 
 ---
 
-## 🔴 🤝 Connect With Me
+## 🌌 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nirmala-devi-lakshmi-4400862a5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9F1239?style=for-the-badge&logo=linkedin&logoColor=FFB4A8&labelColor=17202A"/>
 </a>
 
 <a href="mailto:nirmaladevilakshmi87@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-FFB4A8?style=for-the-badge&logo=gmail&logoColor=17202A&labelColor=9F1239"/>
 </a>
 
 </div>
@@ -146,10 +135,10 @@ My goal is to build a career in **Data Analytics**, gain practical industry expe
 
 <div align="center">
 
-### 🔴 Turning Data Into Insights 📊
+###  Turning Data Into Insights 📊
 
-<img src="https://img.shields.io/badge/Data%20Analytics-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=DC2626"/>
-<img src="https://img.shields.io/badge/SQL-DC2626?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-9F1239?style=for-the-badge&logoColor=FFB4A8"/>
+<img src="https://img.shields.io/badge/Power%20BI-17202A?style=for-the-badge&logo=powerbi&logoColor=FFB4A8"/>
+<img src="https://img.shields.io/badge/SQL-FFB4A8?style=for-the-badge&logo=mysql&logoColor=17202A"/>
 
 </div>
